@@ -13,5 +13,4 @@ I enjoy simplifying complex ideas and creating clear, structured documentation.
 - Concept explainers  
 - Communication cadences & scripts  
 
-Check out my technical writing portfolio below 👇
 
